@@ -1,0 +1,6 @@
+{
+  "name": "Greenlogy",
+  "render_readme": true,
+  "description": "Sledovanie stavu a štatistík virtuálnej batérie z portálu Greenlogy.",
+  "iot_class": "cloud_polling"
+}

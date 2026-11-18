@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Greenlogy login",
+        "description": "Enter your Greenlogy customer portal credentials.",
+        "data": {
+          "email": "Email",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to Greenlogy server.",
+      "invalid_auth": "Invalid email or password.",
+      "no_battery": "No virtual battery found on this account.",
+      "unknown": "Unexpected error occurred."
+    },
+    "abort": {
+      "already_configured": "This Greenlogy account is already configured."
+    }
+  }
+}

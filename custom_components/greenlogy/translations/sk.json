@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Prihlásenie do Greenlogy",
+        "description": "Zadajte prihlasovacie údaje do zákazníckeho portálu Greenlogy.",
+        "data": {
+          "email": "E-mail",
+          "password": "Heslo"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Nepodarilo sa pripojiť k serveru Greenlogy.",
+      "invalid_auth": "Nesprávny e-mail alebo heslo.",
+      "no_battery": "Na tomto účte nebola nájdená žiadna virtuálna batéria.",
+      "unknown": "Nastala neočakávaná chyba."
+    },
+    "abort": {
+      "already_configured": "Tento Greenlogy účet je už pridaný."
+    }
+  }
+}
